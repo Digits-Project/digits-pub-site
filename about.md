@@ -3,7 +3,6 @@ layout: page
 title: About Digits
 permalink: /about/
 ---
-# The Digits Project
 Publishing scholarship that cannot fit in print is complicated, expensive, and difficult to legitimize. The Digits Project attempts to bridge this gap between print and digital scholarship using software containerization, a popular approach to reducing the costs and complexity associated with system administration. 
 
 The Digits platform will allow journals, libraries, and publishers to receive, distribute, maintain, and preserve digital scholarly objects nearly as easily as they can with PDF or TeX files. Our platform will reduce the barriers to scholarship in as expressive a digital form as its creators can imagine. Such work is currently undertaken at great risk and personal expense, without a clear path towards peer review, project hosting, or long-term preservation. 
