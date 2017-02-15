@@ -5,6 +5,4 @@
 layout: page
 ---
 
-## Mobilizing Digital Humanities Scholarship, One Container at a Time
-
 The Digits Project began as a partnership between digital humanities scholars at Carnegie Mellon University and the University of Pittsburgh but has grown since its inception to include nine additional parter institutions. Our central goal is to bring containerization to the digital humanities. Read more about our purpose [here](about/).
