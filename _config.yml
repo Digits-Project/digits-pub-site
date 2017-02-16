@@ -17,7 +17,7 @@ title: Digits
 email: digitalmedialab@pitt.edu
 description: > # Digits is a collaborative project focused on conatainerization for digital scholarship, particularly the digital humanities
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://digits.pub" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: scott_bot
 github_username: digits-project
 
