@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "We Have a Website!"
-subtitle: " "
+subtitle: "No text"
 author: Digits Team
 date:   2017-02-15 15:32:22 -0500
 categories: website
