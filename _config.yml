@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Digits
-subtitle: "Digital humanities scholarship, one container at a time"
 email: digitalmedialab@pitt.edu
 description: > # Digits is a collaborative project focused on conatainerization for digital scholarship, particularly the digital humanities
 baseurl: "" # the subpath of your site, e.g. /blog
