@@ -27,5 +27,5 @@ Advisory Board
 * Andrew Odewahn, O'Reilly Media
 * Ed Summers, University of Maryland
 * Whitney Trettien, UNC-Chapel Hill
-* Amanda Visconti, Purdue University
+* Amanda Visconti, University of Virginia
 * Keith Webster, Carnegie Mellon University
