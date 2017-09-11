@@ -26,6 +26,9 @@ Advisory Board
 * Sharon Leon, George Mason University
 * Andrew Odewahn, O'Reilly Media
 * Ed Summers, University of Maryland
-* Whitney Trettien, UNC-Chapel Hill
+* Whitney Trettien, University of Pennsylvania
 * Amanda Visconti, University of Virginia
 * Keith Webster, Carnegie Mellon University
+* David Newbury, J. Paul Getty Trust
+* David Wilkinson, University of Pittsburgh
+* Mary Shaw, Carnegie Mellon University
